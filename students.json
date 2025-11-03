@@ -6,14 +6,10 @@
     "github_page": "https://segolene-albouy.github.io/",
     "matiere_preferee": "Git",
     "emoji": "🍓"
-  }
-]
-
-[
-  {
+  },{
     "prenom": "Florian",
     "nom": "Martin",
-    "promo": 2025
+    "promo": 2025,
     "github_page": "https://floflo-boop.github.io/",
     "matiere_preferee": "Python",
     "emoji": "🏀"
